@@ -1,6 +1,6 @@
 ![medical gif](https://github.com/Anas-Odeh/Anas-Odeh/assets/133384773/fcc23e8a-6b0d-4478-95c8-def0afff1e8f) 
 
-# 🎊🎉**Welcome to my GitHub profile!**🎊🎉
+# 🎊🎉**Welcome to my GitHub profile**🎊🎉
 
 ## **From Personal Challenge to Scientific Quest**
 My journey into the world of biomedical science began not in a lab, but from a deeply personal quest. On a day that remains etched in my memory, November 13th, 2012, I confronted my own genetic enigma, leading to the discovery that I had Becker Muscular Dystrophy. This pivotal moment wasn't just a diagnosis; it was the first step on a path filled with relentless curiosity and a determination to pierce the veil of muscular dystrophies, particularly Duchenne Muscular Dystrophy.
