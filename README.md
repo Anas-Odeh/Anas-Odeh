@@ -1,10 +1,5 @@
 ![welcome](https://github.com/Anas-Odeh/Anas-Odeh/assets/133384773/0645701b-aaef-4fa0-abad-c56df17e13e5)
 
-
-## **Welcome** 
-
-
-
 My journey into the world of biomedical science began not in a lab, but from a deeply personal quest. On a day that remains etched in my memory, November 13th, 2012, I confronted my own genetic enigma, leading to the discovery that I had Becker Muscular Dystrophy. This pivotal moment wasn't just a diagnosis; it was the first step on a path filled with relentless curiosity and a determination to pierce the veil of muscular dystrophies, particularly Duchenne Muscular Dystrophy.
 
 The quest was never just academic; it was as personal as it was scientific. Diving into the realms of deep learning and machine analysis, I wasn't just looking at data points or algorithms; I saw potential keys to unlock the complex puzzles of biological systems that many, including myself, are intricately part of. My approach isn't merely about applying advanced technologies; it's about weaving the power of artificial intelligence into the very fabric of muscular dystrophy research to illuminate the shadowy recesses of these conditions.
